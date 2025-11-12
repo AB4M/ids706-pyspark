@@ -26,5 +26,6 @@ Aggregates are computed with early filters (distance>0 & fare>0) and broadcast l
 <img width="1475" height="918" alt="image" src="https://github.com/user-attachments/assets/12f7a9f5-f145-4a9c-b1f7-2bdd06b75a98" />
 <img width="1476" height="863" alt="image" src="https://github.com/user-attachments/assets/140e7f99-c251-4805-93eb-04a04fce1d06" />
 <img width="1471" height="975" alt="image" src="https://github.com/user-attachments/assets/90265e10-be5f-40cc-a780-64926d3c17bc" />
+<img width="1190" height="319" alt="image" src="https://github.com/user-attachments/assets/ff324385-bfd8-4cc0-a241-c3c01233e1c9" />
 
 
